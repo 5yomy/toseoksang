@@ -1,7 +1,7 @@
 토석상 홈페이지 — 사진 목록
 ============================
 
-사진 38장이 이미 들어가 있습니다. 모두 사장님이 직접 올리신 것에서만
+사진 33장이 이미 들어가 있습니다. 모두 사장님이 직접 올리신 것에서만
 골랐습니다. (네이버 예약·플레이스 등록사진 + 네이버 블로그 banggok4052)
 
 방문자 리뷰 사진과 손님 얼굴이 나온 사진은 넣지 않았습니다.
@@ -27,7 +27,6 @@
   about.jpg            800x1000  겨울 외관 (세로)
   room-main.jpg       1200x825   본채 거실 · 산이 보이는 창
   room-gogh.jpg       1200x825   고흐의 방 침실
-  room-forest.jpg     1200x825   방곡숲 외관 · 데크
   gallery-1.jpg       1600x900   눈 덮인 마당과 자연석 돌담
   gallery-2.jpg        900x900   백 년 된 뽕나무 정원
   gallery-3.jpg        900x900   2층 갤러리의 도자기
@@ -48,10 +47,6 @@
   room-gogh-3.jpg     고흐의 방 간이주방
   room-gogh-4.jpg     고흐의 방 욕실
   room-gogh-5.jpg     고흐의 방 외관
-  room-forest-1.jpg   방곡숲 거실
-  room-forest-2.jpg   방곡숲 침실
-  room-forest-3.jpg   방곡숲 주방
-  room-forest-4.jpg   방곡숲 단풍철 전경
 
 ■ 예약안내 (reservation.html)
 
