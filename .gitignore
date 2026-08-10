@@ -1,0 +1,15 @@
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# 편집기
+.vscode/
+.idea/
+*.swp
+
+# 작업용 임시파일
+*.psd
+*.ai
+~$*
