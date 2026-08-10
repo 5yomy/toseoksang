@@ -15,7 +15,7 @@ window.SITE = {
 
   // ── 연락처 ────────────────────────────────────────────
   phone:       '0507-1373-4052',      // [확인]
-  talkUrl:     'https://talk.naver.com/w5uaiq',            // [확인] 네이버 톡톡 (없으면 빈칸 → 버튼 숨김)
+  naverMapUrl: 'https://map.naver.com/p/entry/place/1817210374',  // 네이버 지도 토석상 장소 페이지
   blogUrl:     'https://blog.naver.com/banggok4052',      // [확인] 네이버 블로그
   instaUrl:    'https://www.instagram.com/tosuksang/',    // [확인] 인스타그램
   youtubeUrl:  'https://youtu.be/zSuOnKmabpQ',            // 공간 구경 영상
@@ -67,7 +67,7 @@ window.SITE = {
     });
 
     // 카카오 채널 · 블로그 · 인스타그램 (주소 없으면 숨김)
-    [['data-talk', 'talkUrl'], ['data-blog', 'blogUrl'], ['data-insta', 'instaUrl'],
+    [['data-navermap', 'naverMapUrl'], ['data-blog', 'blogUrl'], ['data-insta', 'instaUrl'],
      ['data-youtube', 'youtubeUrl']].forEach(function (pair) {
       document.querySelectorAll('[' + pair[0] + ']').forEach(function (a) {
         if (S[pair[1]]) {
